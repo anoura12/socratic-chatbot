@@ -1,0 +1,7 @@
+Could you help me solve a forensics challenge?
+
+The following are the details of the challenge:-
+Challenge Name: Dwayne's Promotion
+Challenge Description: Dwayne got a promotion from his boss. He must go to the promotion offlice to show the PDF his boss has given to prove his validation. But his rival John got hold of the file and set a password to it. Help Dwayne unlock the PDF before its validation date expires!
+Flag Format: flag{}
+Attachments Provided: PDF file named promotion.pdf which has a password lock
